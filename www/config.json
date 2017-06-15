@@ -9,9 +9,9 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "demo_sites": {},
-    "gcmpn": "sorce-moodle-1",
+    "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://demo.sorce.online/",
+    "siteurl": "http://my.sorce.online/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false"
 }
